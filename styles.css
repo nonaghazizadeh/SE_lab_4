@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Vazirmatn; /* The name of your font family */
+    src: url('fonts/Vazirmatn-Light.ttf'); /* The path to your font file */
+  }
+  
+  body {
+    font-family: Vazirmatn, sans-serif; /* Use your font family name in your CSS to apply it to text in your HTML document */
+  }
+  
