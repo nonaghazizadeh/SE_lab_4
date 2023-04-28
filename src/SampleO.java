@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.util.stream.IntStream;
 
 public class SampleO {
     public static long[][] powerMatrix(long[][] matrix, int power) {
